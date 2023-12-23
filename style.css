@@ -1,0 +1,45 @@
+#beauty {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 20px;
+}
+#logo {
+  width: 190px;
+  height: 30px;
+}
+#headline {
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+#const {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 20px;
+}
+span {
+  color: blue;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  
+}
+body {
+  background-color: #faf9f6;
+}
+.div2 {
+  float: right;
+  margin-right: 20;
+}
+.div1 {
+  float: left;
+}
+footer p{
+  text-align: right;
+  font-family: "Poppins", sans-serif;
+  color: rgb(59, 59, 236);
+  margin-right: 20;
+}
